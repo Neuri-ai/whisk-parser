@@ -20,7 +20,7 @@ First you have to import the module using the below code.
 
     from whisk_parser import wp
 
-Then you can use the **parse_email** method to convert a number-word to numeric digits, as shown below.
+Then you can use the **parse_email** method to convert a string to a valid email.
 
 ```
 print(
