@@ -4,7 +4,7 @@ Parse emails from Vosk API and Whisper.
 
 ## Installation
 
-Please ensure that you have **updated pip** to the latest version before installing word2number_es.
+Please ensure that you have **updated pip** to the latest version before installing whisk_parser.
 
 You can install the module using Python Package Index using the below command.
 
