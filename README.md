@@ -1,4 +1,4 @@
-# Whisk Parser ![GitHub issues](https://img.shields.io/github/issues/Neuri-ai/whisk-parser) ![GitHub forks](https://img.shields.io/github/forks/Neuri-ai/whisk-parser) ![GitHub stars](https://img.shields.io/github/stars/Neuri-ai/whisk-parser) 
+# Whisk Parser ![GitHub issues](https://img.shields.io/github/issues/Neuri-ai/whisk-parser) ![GitHub forks](https://img.shields.io/github/forks/Neuri-ai/whisk-parser) ![GitHub stars](https://img.shields.io/github/stars/Neuri-ai/whisk-parser) ![GitHub licence](https://img.shields.io/github/license/Neuri-ai/whisk-parser)
 
 Parse emails from Vosk API and Whisper.
 
