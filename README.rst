@@ -1,5 +1,3 @@
-|travis_pic| |codecov_pic|
-
 ==============
 
 Whisk Parser
@@ -14,19 +12,13 @@ Installation
 
 ++++++++++++
 
-Please ensure that you have **updated pip** to the latest version before installing whisk-parser.
+Please make sure that you have **updated pip** to the latest version before installing whisk-parser.
 
 You can install the module using Python Package Index using the below command.
 
 .. code-block:: python
 
   pip install whisk_parser
-
-Make sure you install all requirements given in requirements.txt
-
-.. code-block:: python
-
-  pip install -r requirements.txt
 
 +++++
 
