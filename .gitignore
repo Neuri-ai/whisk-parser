@@ -1,0 +1,10 @@
+.idea/
+.codeintel/
+.idlerc/
+__pycache__/
+build/
+.ipynb_checkpoints/
+whisk_parser.egg-info/
+.pypirc
+*.pyc
+*.ipynb

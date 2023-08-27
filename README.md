@@ -4,16 +4,13 @@ Parse emails from Vosk API and Whisper.
 
 ## Installation
 
-Please ensure that you have **updated pip** to the latest version before installing whisk_parser.
+Please make sure that you have **updated pip** to the latest version before installing whisk_parser.
 
 You can install the module using Python Package Index using the below command.
 
     pip install whisk_parser
 
-Make sure you install all requirements given in requirements.txt
-```
-pip install -r requirements.txt
-```
+
 ## Usage
 
 First you have to import the module using the below code.
