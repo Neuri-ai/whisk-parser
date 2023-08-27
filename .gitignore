@@ -1,0 +1,9 @@
+.idea/
+.codeintel/
+.idlerc/
+__pycache__/
+build/
+.ipynb_checkpoints/
+.pypirc
+*.pyc
+*.ipynb
