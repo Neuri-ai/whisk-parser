@@ -15,7 +15,7 @@ You can install the module using Python Package Index using the below command.
 
 First you have to import the module using the below code.
 
-    from whisk_parser import wp
+    import whisk_parser as wp
 
 Then you can use the **parse_email** method to convert a string to a valid email.
 
